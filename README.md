@@ -1,5 +1,10 @@
 # WS-PetExtension
+
 Pet Extension for WS.
+
+https://plugins.jetbrains.com/contest/space/2022#registration
+https://www.youtube.com/watch?v=s-52Ddkozm4
+
 
 ## Autor
 
